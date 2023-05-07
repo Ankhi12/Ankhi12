@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my profile.
+Welcome to my profile. Here i mostly write React, React-Redux related projects, JavaScript challenges. Planning to broaden my horizon and addd more!
 
 💻 I am a MERN Fullstack developer, content creator, and a problem solver.
 
