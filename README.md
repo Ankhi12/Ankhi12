@@ -23,6 +23,6 @@ Mainly due to coding being transparent and also as a great way to keep my cognit
 9. HTML5 & CSS
 10. SEO - Intermediate level
 
-✔️ I am open for a chat for collabortion or learning.
+✔️ I am open for collabortion or learning.
 
 👋 Thank You & take care!
