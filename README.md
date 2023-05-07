@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Ankhi12/Ankhi12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile.
 
-Here are some ideas to get you started:
+💻 I am a MERN Fullstack developer, content creator, and a problem solver.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 I have found my passion in coding after going through an unconventional career path. 
+Mainly due to coding being transparent and also as a great way to keep my cognitive skills alive :D
+
+👍 Most of the time the thrill of an optimized code's output gives me the fuel to be a better software development each and every day!
+
+📓 When it comes to problem solving, i have developed a keen way into looking into a business problem both from the technical and business aspects. Then, approaching the problem.
+
+✔️ I am open for a chat for collabortion or learning.
+
+👋 Thank You & take care!
