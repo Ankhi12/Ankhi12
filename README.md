@@ -9,7 +9,7 @@ Mainly due to coding being transparent and also as a great way to keep my cognit
 
 👍 Most of the time, the thrill of learning something new to write an even better and optimized code keeps me going to become a better software developer!
 
-📓 When it comes to problem solving, i have developed a keen way into looking into a business problem both from the technical and business aspects. Then, approaching the problem.
+📓 When it comes to problem solving, i have developed a keen way into looking into a business problem both from the technical and business aspects.
 
 ✔️ I am open for a chat for collabortion or learning.
 
