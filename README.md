@@ -2,7 +2,7 @@
 
 Welcome to my profile. Here, i mostly discuss React, React-Redux related projects, JavaScript challenges. Planning to broaden my horizon and addd more!
 
-💻 I am a MERN Fullstack developer, content creator, and a problem solver.
+💻 I am a MERN Fullstack developer, content creator ([Medium](https://medium.com/@ankhi.)), and a problem solver.
 
 🔥 I have found my passion in coding after going through an unconventional career path. 
 Mainly due to coding being transparent and also as a great way to keep my cognitive skills alive :D
