@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my profile. Here, i mostly discuss React, React-Redux related projects, JavaScript challenges. Planning to broaden my horizon and addd more!
+Welcome to my profile. Here, i mostly discuss React, React-Redux related projects, JavaScript challenges. Planning to broaden my horizon and add more tech stacks!
 
 💻 I am a MERN Fullstack developer, content creator ([Medium](https://medium.com/@ankhi.)), and a problem solver.
 
