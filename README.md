@@ -2,7 +2,7 @@
 
 Welcome to my profile. Here, i mostly discuss React, React-Redux related projects, JavaScript challenges. Planning to broaden my horizon and add more tech stacks!
 
-💻 Looking for MERN Fullstack developer opportunities. I love to code, create content ([Medium](https://medium.com/@ankhi.)), and solving business problems.
+💻 Looking for MERN Fullstack developer opportunities. I love to code, create content ([Medium](https://medium.com/@ankhi.)), and solve business problems.
 
 🔥 I have found my passion in coding after going through an unconventional career path. 
 Mainly due to coding being transparent and also as a great way to keep my cognitive skills alive :D
