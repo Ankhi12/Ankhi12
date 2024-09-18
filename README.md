@@ -1,15 +1,16 @@
 ### Hi there 👋
 
-Welcome to my profile. Here, i mostly discuss React, React-Redux related projects, JavaScript challenges. Planning to broaden my horizon and add more tech stacks!
+Hello There!! I am Ankhi, and I enjoy writing efficient and meaningful codes.
 
-💻 Looking for MERN Fullstack developer opportunities. I love to code, create content ([Medium](https://medium.com/@ankhi.)), and solve business problems.
-
-🔥 I have found my passion in coding after going through an unconventional career path. 
-Mainly due to coding being transparent and also as a great way to keep my cognitive skills alive :D
-
-👍 Most of the time, the thrill of learning something new to write an even better and optimized code keeps me going to become a better software developer!
-
-📓 When it comes to problem solving, i have developed a keen way into looking into a business problem both from the technical and business aspects.
+Somewhere along the line, I went on to explore the marketing part of the IT industry---as I didn't get much exposure to witnessing the impact of my coding efforts in real life.
+                
+Along the way, I have gone above and beyond my current role to assist my team with UI development and enhancements. 
+                
+Not only that, I leverage my marketing skills with coding knowledge to explain complex programming concepts to people online through my blogs as a token of appreciation :)
+                
+All this experience has made me better and more knowledgeable than ever, and now I am looking forward to helping companies with developing software.
+                
+My interest lies in solving complex business problems in both front-end (HTML, CSS, React JS) and back-end (MongoDB, API development, and SQL) aspects.
 
 **Skills**
 1. JavaScript
