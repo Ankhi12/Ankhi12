@@ -2,15 +2,15 @@
 
 Hello There!! I am Ankhi, and I enjoy writing efficient and meaningful codes.
 
-Somewhere along the line, I went on to explore the marketing part of the IT industry---as I didn't get much exposure to witnessing the impact of my coding efforts in real life.
-                
-Along the way, I have gone above and beyond my current role to assist my team with UI development and enhancements. 
-                
-Not only that, I leverage my marketing skills with coding knowledge to explain complex programming concepts to people online through my blogs as a token of appreciation :)
-                
-All this experience has made me better and more knowledgeable than ever, and now I am looking forward to helping companies with developing software.
-                
-My interest lies in solving complex business problems in both front-end (HTML, CSS, React JS) and back-end (MongoDB, API development, and SQL) aspects.
+At some point, I decided to explore the marketing side of the IT industry -- as I was not getting enough exposure to see the real-world impact of my coding efforts.
+
+Since then, I have gone above and beyond my role to assist my team with marketing and UI development efforts. 
+
+Not only that, I leverage my marketing skills with my coding knowledge to explain complex programming concepts through my blogs, which I see as a way to give back to the community :)
+
+All these experiences have made me more knowledgeable, and I am now eager to help companies develop software.
+
+I am particularly interested in solving complex business problems, both in front-end technologies like HTML, CSS, and React JS, and back-end tech involving MongoDB, API development, and SQL..
 
 **Skills**
 1. JavaScript
@@ -23,7 +23,5 @@ My interest lies in solving complex business problems in both front-end (HTML, C
 8. API testing using Postman
 9. HTML5 & CSS
 10. SEO - Intermediate level
-
-✔️ I am open for collabortion or learning.
 
 👋 Thank You & take care!
