@@ -24,4 +24,5 @@ I am particularly interested in solving complex business problems, both in front
 9. HTML5 & CSS
 10. SEO - Intermediate level
 
-👋 Thank You & take care!
+
+Thank You for reading my profile & take care!
