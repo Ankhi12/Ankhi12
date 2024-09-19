@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Ankhi, and I enjoy writing efficient and meaningful codes.
+I am Ankhi, and I enjoy writing efficient and meaningful code.
 
 At some point, I decided to explore the marketing side of the IT industry---as I was not getting enough exposure to see the real-world impact of my coding efforts.
 
