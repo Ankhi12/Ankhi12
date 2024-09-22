@@ -2,7 +2,7 @@
 
 I am Ankhi, and I enjoy writing efficient and meaningful code.
 
-At some point of my life, I decided to explore the marketing side of the IT industry---as I was not getting enough exposure to see the real-world impact of my coding efforts.
+At some point in my life, I decided to explore the marketing side of the IT industry---as I was not getting enough exposure to see the real-world impact of my coding efforts.
 
 Since then, I have gone above and beyond in my roles to assist organizations with marketing and UI development efforts. 
 
