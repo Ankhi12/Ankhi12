@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Always on the go to solve complexities...
+Interest in Data Science
