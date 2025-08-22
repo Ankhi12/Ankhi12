@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Interest in Data Science
+Interested in Data Science
