@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Interested in Data Science
+Interested in UI development, strategy, SEO, and Frontend opportunities.
