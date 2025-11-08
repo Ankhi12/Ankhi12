@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Interested in UI development, strategy, SEO, and Frontend opportunities.
+Interested in technical SEO and Data Analysis 
