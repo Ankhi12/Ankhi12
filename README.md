@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Interested in technical SEO | Frontend | Backend 
+Interested in technical Frontend | SEO | Backend 
