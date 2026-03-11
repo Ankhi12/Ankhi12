@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Skilled in Frontend | SEO | Backend 
+Frontend | SEO 
