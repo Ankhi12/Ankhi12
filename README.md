@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Frontend | SEO 
+Fullstack Development
