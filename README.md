@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Fullstack Development
+UI developer with decent backend knowledge.
