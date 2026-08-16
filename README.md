@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-UI developer with decent backend knowledge.
+A technical and non-technical content creator who is also great at SEO, UI design and development
